@@ -1,7 +1,8 @@
 # aws-botostub-cheatsheet
 David Lin's AWS Botostub Cheatsheet
 
-*** Assumes python3 is already installed ***
+# Install Python3
+Procedures below assume Python3 is already installed 
 
 # Update OS
 <pre>
