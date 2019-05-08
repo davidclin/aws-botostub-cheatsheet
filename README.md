@@ -59,4 +59,5 @@ pip install --upgrade botostubs
 
 # Resources
 [botostubs Blog](https://www.awsadvent.com/2018/12/21/code-assistance-for-boto3-always-up-to-date-and-in-any-ide/)
+<br>
 Add more resources here
